@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 155,
-    "timeWeek": 159,
-    "timeMonth": 149,
+    "time": 184,
+    "timeDay": 113,
+    "timeWeek": 158,
+    "timeMonth": 150,
     "timeYear": 187,
-    "dailyMinutesDown": {
-      "2024-06-20": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Legal Hub",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 260,
-    "timeDay": 251,
-    "timeWeek": 329,
-    "timeMonth": 268,
-    "timeYear": 272,
+    "timeDay": 273,
+    "timeWeek": 327,
+    "timeMonth": 274,
+    "timeYear": 273,
     "dailyMinutesDown": {
       "2024-11-19": 103,
       "2024-07-16": 31
