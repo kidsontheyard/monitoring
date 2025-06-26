@@ -7,7 +7,7 @@ sites:
     url: https://kidsontheyard.com
   - name: Legal Hub
     url: https://legalhub.kidsontheyard.com
-  - name: KOTY Nextwave: guard.api
+  - name: guard.api.koty.app
     url: https://guard.api.koty.app/health
 
 assignees:
