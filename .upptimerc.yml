@@ -3,9 +3,9 @@ owner: kidsontheyard # Your GitHub organization or username, where this reposito
 repo: monitoring # The name of this repository
 
 sites:
-  - name: "WEB Kids on the Yard"
+  - name: "Kids on the Yard"
     url: https://kidsontheyard.com
-  - name: "WEB - Legal Hub"
+  - name: "Legal Hub"
     url: https://legalhub.kidsontheyard.com
   - name: "APP API – guard.api"
     url: https://guard.api.koty.app/health
