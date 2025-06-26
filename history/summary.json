@@ -37,5 +37,23 @@
       "2024-11-19": 103,
       "2024-07-16": 31
     }
+  },
+  {
+    "name": "guard.api.koty.app",
+    "url": "https://guard.api.koty.app/health",
+    "icon": "https://icons.duckduckgo.com/ip3/guard.api.koty.app.ico",
+    "slug": "guard-api-koty-app",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 178,
+    "timeDay": 178,
+    "timeWeek": 178,
+    "timeMonth": 178,
+    "timeYear": 178,
+    "dailyMinutesDown": {}
   }
 ]
