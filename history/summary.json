@@ -42,17 +42,19 @@
     "url": "https://guard.api.koty.app/health",
     "icon": "https://icons.duckduckgo.com/ip3/guard.api.koty.app.ico",
     "slug": "app-api-guard-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 131,
-    "timeWeek": 202,
-    "timeMonth": 197,
-    "timeYear": 210,
-    "dailyMinutesDown": {}
+    "time": 211,
+    "timeDay": 186,
+    "timeWeek": 207,
+    "timeMonth": 199,
+    "timeYear": 211,
+    "dailyMinutesDown": {
+      "2025-09-09": 0
+    }
   }
 ]
