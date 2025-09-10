@@ -7,8 +7,8 @@ sites:
     url: https://kidsontheyard.com
   - name: "Legal Hub"
     url: https://legalhub.kidsontheyard.com
-  - name: "APP API – guard.api"
-    url: https://guard.api.koty.app/health
+  - name: "ShortURL"
+    url: https://koty.cc
 
 assignees:
   - 101sam
