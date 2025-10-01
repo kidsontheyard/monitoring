@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 197,
-    "timeWeek": 191,
-    "timeMonth": 245,
-    "timeYear": 197,
+    "timeDay": 413,
+    "timeWeek": 223,
+    "timeMonth": 255,
+    "timeYear": 198,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 280,
-    "timeDay": 313,
-    "timeWeek": 325,
-    "timeMonth": 330,
+    "timeDay": 449,
+    "timeWeek": 353,
+    "timeMonth": 344,
     "timeYear": 284,
     "dailyMinutesDown": {
       "2024-11-19": 103
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/koty.cc.ico",
     "slug": "short-url",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
-    "time": 246,
-    "timeDay": 155,
-    "timeWeek": 218,
-    "timeMonth": 246,
-    "timeYear": 246,
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 251,
+    "timeDay": 374,
+    "timeWeek": 246,
+    "timeMonth": 251,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2025-09-11": 103
     }
