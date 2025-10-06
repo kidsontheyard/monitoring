@@ -9,6 +9,8 @@ sites:
     url: https://legalhub.kidsontheyard.com
   - name: "ShortURL"
     url: https://koty.cc
+  - name: "GeoIP SVC API"
+    url: https://geoip.svc.koty.app/health
 
 assignees:
   - 101sam
