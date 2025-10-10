@@ -62,19 +62,19 @@
     "url": "https://geoip.svc.koty.app/health",
     "icon": "https://icons.duckduckgo.com/ip3/geoip.svc.koty.app.ico",
     "slug": "geo-ip-svc-api",
-    "status": "down",
-    "uptime": "98.87%",
-    "uptimeDay": "95.43%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "98.87%",
-    "time": 475,
-    "timeDay": 616,
-    "timeWeek": 475,
-    "timeMonth": 475,
-    "timeYear": 475,
+    "status": "up",
+    "uptime": "91.23%",
+    "uptimeDay": "61.42%",
+    "uptimeWeek": "91.23%",
+    "uptimeMonth": "91.23%",
+    "uptimeYear": "91.23%",
+    "time": 469,
+    "timeDay": 555,
+    "timeWeek": 469,
+    "timeMonth": 469,
+    "timeYear": 469,
     "dailyMinutesDown": {
-      "2025-10-10": 66
+      "2025-10-10": 556
     }
   }
 ]
