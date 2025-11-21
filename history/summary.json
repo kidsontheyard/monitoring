@@ -11,9 +11,9 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
     "time": 199,
-    "timeDay": 157,
-    "timeWeek": 207,
-    "timeMonth": 204,
+    "timeDay": 209,
+    "timeWeek": 205,
+    "timeMonth": 206,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2025-11-18": 115
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
     "time": 294,
-    "timeDay": 489,
-    "timeWeek": 410,
-    "timeMonth": 372,
+    "timeDay": 314,
+    "timeWeek": 420,
+    "timeMonth": 369,
     "timeYear": 296,
     "dailyMinutesDown": {
       "2025-11-18": 118
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 253,
-    "timeDay": 431,
-    "timeWeek": 282,
-    "timeMonth": 244,
-    "timeYear": 253,
+    "time": 254,
+    "timeDay": 322,
+    "timeWeek": 312,
+    "timeMonth": 241,
+    "timeYear": 254,
     "dailyMinutesDown": {
       "2025-09-11": 103
     }
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/geoip.svc.koty.app.ico",
     "slug": "geo-ip-svc-api",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.14%",
-    "time": 467,
-    "timeDay": 568,
+    "uptimeYear": "99.16%",
+    "time": 465,
+    "timeDay": 376,
     "timeWeek": 444,
-    "timeMonth": 471,
-    "timeYear": 467,
+    "timeMonth": 464,
+    "timeYear": 465,
     "dailyMinutesDown": {
       "2025-10-10": 556
     }
