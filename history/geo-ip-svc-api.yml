@@ -1,7 +1,7 @@
 url: https://geoip.svc.koty.app/health
-status: up
-code: 200
-responseTime: 554
-lastUpdated: 2025-12-06T23:01:56.444Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-12-07T17:27:07.393Z
 startTime: 2025-10-06T02:23:17.253Z
 generator: Upptime <https://github.com/upptime/upptime>
